@@ -1,0 +1,186 @@
+body {
+    background-color: #121212;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#header {
+    margin: 0;
+    width: 100%;
+    height: 46%;
+    background-color: rgba(44, 44, 44, 0);
+    color: white;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+
+}
+
+#Conteinerprofile {
+
+    width: 94%;
+    height: 460px;
+    background-color: rgb(44, 44, 44);
+    margin: auto;
+    position: relative;
+    margin-top: 2%;
+    border-radius: 20px;
+    
+}
+
+li {
+    list-style: none;
+    display: inline-flex;
+    padding: 50px;
+    
+}
+
+.profileConte {
+    width: auto;
+    height: auto;
+    align-items: center;
+    
+    background-color: rgba(255, 0, 0, 0);
+}
+
+#ContainerPerfisConjunto {
+    width: 95%;
+    margin: auto;
+    position: relative;
+    top: 20%;
+    text-align: center;
+
+}
+
+#perfil1 {
+    width:100px;
+    height:100px;
+    background-image: url(../imgcss/pexels-cottonbro-studio-4098288.jpg);
+    background-size: 100%;
+    background-position: 0px;
+    border-radius: 50%;
+    margin:auto
+}
+
+#perfil1:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+#perfil2 {
+    width:100px;
+    height:100px;
+    background-image: url(../imgcss/homemabatido.jpg);
+    background-size: 100%;
+    background-position: 0px;
+    border-radius: 50%;
+    margin:auto
+}
+
+#perfil2:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+#perfil3 {
+    width:100px;
+    height:100px;
+    background-image: url(../imgcss/pensante.jpg);
+    background-size: 100%;
+    background-position: 0px;
+
+    border-radius: 50%;
+    margin:auto
+}
+
+#perfil3:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+
+#perfil4 {
+    width:100px;
+    height:100px;
+    background-image: url(../imgcss/veioPensador.jpg);
+    background-size: 150%;
+    background-position: 0px;
+    border-radius: 50%;
+    margin:auto
+}
+
+#perfil4:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+.textPerfil {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}
+
+
+.footer {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-left: 25px;
+
+}
+
+.footer:hover {
+    color: yellow;
+}
+
+#listaFooter {
+    text-align: center;
+}
+
+h1:hover {
+    color: yellow;
+}
+
+
+
+
+@media screen and  (max-width: 1100px) {
+    #Conteinerprofile{
+        
+        height: 80%;
+       
+    }
+
+    li{
+     display: inline;
+
+    }
+
+    #perfil1{
+        margin-left: 0%;
+        margin: auto;
+    }
+    #perfil2{
+        margin-left: 0;
+        margin: auto;
+    }
+    #perfil3{
+        margin-left: 0;
+        margin: auto;
+    }
+    #perfil4{
+        margin-left: 0;
+        margin: auto;
+    }
+    .textPerfil{
+        font-size: 2px;
+    }
+    .footer{
+        margin:0;
+    }
+    #header{
+        font-size: 15px;
+    }
+
+
+}
