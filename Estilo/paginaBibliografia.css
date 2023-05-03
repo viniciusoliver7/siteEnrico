@@ -1,0 +1,82 @@
+body{
+    background-color:  #121212;
+    margin: 0;
+}
+
+
+section{
+    width: 95%;
+    height:auto;
+    background-color: rgb(44, 44, 44);
+    margin: auto;
+
+}
+.ContaineBase{
+
+    width: 80%;
+    height: 300px;
+    margin: auto;
+}
+
+.imgFont1{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/oceuDeToquio.jpg);
+    background-size:350px;
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+
+.imgFont2{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/Detroid.jpg);
+    background-size:400px;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+
+
+.imgFont3{
+    width: 200px;
+    height: 200px;
+ 
+    background-image: url(../imgcss/Detroid.jpg);
+    background-size:425px;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+
+
+.imgFont4{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/Detroid.jpg);
+    background-size:425px;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+.caixatext{
+    width:auto;
+    height: auto;
+    display: inline-block;
+    color: white;
+
+}
+
+p{
+ 
+}
