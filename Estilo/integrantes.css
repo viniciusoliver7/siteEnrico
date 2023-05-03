@@ -22,9 +22,9 @@ section{
 .imgFont1{
     width: 200px;
     height: 200px;
-    background-image: url(../imgcss/oceuDeToquio.jpg);
+    background-image: url(../imgcss/olivera.jpeg);
     background-size:350px;
-    background-position: right;
+    background-position:top;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
@@ -35,8 +35,8 @@ section{
 .imgFont2{
     width: 200px;
     height: 200px;
-    background-image: url(../imgcss/Detroid.jpg);
-    background-size:400px;
+    background-image: url(../imgcss/heitor.jpeg);
+    background-size:200px;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
@@ -49,8 +49,9 @@ section{
     width: 200px;
     height: 200px;
  
-    background-image: url(../imgcss/Detroid.jpg);
-    background-size:425px;
+    background-image: url(../imgcss/Paulo.jpeg);
+    background-size:250px;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
@@ -62,13 +63,53 @@ section{
 .imgFont4{
     width: 200px;
     height: 200px;
-    background-image: url(../imgcss/Detroid.jpg);
-    background-size:425px;
+    background-image: url(../imgcss/samuca.jpeg);
+    background-size:250px;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
     display: inline-flex;
 }
+
+
+.imgFont5{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/kauan.jpeg);
+    background-size:300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+.imgFont6{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/Bianca.jpeg);
+    background-size:250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+.imgFont7{
+    width: 200px;
+    height: 200px;
+    background-image: url(../imgcss/Ariane.jpeg);
+    background-size:250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+
 
 .caixatext{
     width:auto;
@@ -80,5 +121,6 @@ section{
 
 p{
     font-family: 'Amatic SC', cursive;
+    color:darkorange
  
 }
