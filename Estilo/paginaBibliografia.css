@@ -14,7 +14,7 @@ section{
 .ContaineBase{
 
     width: 80%;
-    height: 300px;
+    height: auto;
     margin: auto;
 }
 
@@ -48,14 +48,19 @@ section{
     width: 200px;
     height: 200px;
  
-    background-image: url(../imgcss/Detroid.jpg);
-    background-size:425px;
+    background-image: url(../imgcss/audioo.jpeg);
+    background-size:360px;
+    background-position: left;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
     display: inline-flex;
 }
 
+iframe{
+    width: 400px;
+    height: 400px;
+}
 
 
 .imgFont4{
