@@ -57,7 +57,7 @@ section{
     display: inline-flex;
 }
 
-iframe{
+video{
     width: 400px;
     height: 400px;
 }
@@ -66,7 +66,7 @@ iframe{
 .imgFont4{
     width: 200px;
     height: 200px;
-    background-image: url(../imgcss/Detroid.jpg);
+    background-image: url(../imgcss/livro.jpeg);
     background-size:425px;
     background-repeat: no-repeat;
     margin-left: 10%;
