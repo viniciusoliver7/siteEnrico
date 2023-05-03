@@ -48,9 +48,9 @@ section{
     width: 200px;
     height: 200px;
  
-    background-image: url(../imgcss/audioo.jpeg);
-    background-size:360px;
-    background-position: left;
+    background-image: url(../imgcss/black.jpeg);
+    background-size:320px;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 10%;
     border-radius: 50%;
